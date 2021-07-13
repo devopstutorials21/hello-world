@@ -2,5 +2,4 @@
 
 <h2> Glad to see you here </h2>
 
-<h1>Hello World</h1>
 <h1>Deploying image using ansible</h1>
